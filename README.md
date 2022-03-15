@@ -1,2 +1,4 @@
 # Aplikasi-untuk-menghandel-action-dialog
 TUGAS DEKSTOP PROGRAMMING
+NAMA : DZIKRY ALFIAN
+NIM : 32602000024
